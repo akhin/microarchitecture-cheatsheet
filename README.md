@@ -1,4 +1,8 @@
-Microarchitecture cheat sheet is about X86 CPU topics for developers and mainly oriented towards performance.
+Microarchitecture cheat sheet is about X86 CPU topics for developers and mainly oriented towards performance :
+
+<p align="center">  
+<img src="https://github.com/akhin/microarchitecture-cheatsheet/blob/master/snapshot.png">       
+</p>
 
 It divides that huge subject into following realms :
 	

@@ -46,5 +46,5 @@ Major resources used :
 		UICA , an online microarchitecture analysis tool
 		https://uica.uops.info
 		
-Feedbacks : I do not claim that every information is exact. Somw of them are topics I had the chance to get my hands on during projects, but some are not based on project experiences but studies out of curiosity.
+Feedbacks : I do not claim that every information is exact. Some of them are topics that I had the chance to get my hands on during projects, but some are not based on project experiences but studies out of curiosity.
 In case you find an issue, you can either raise a PR publicly or you can mail me. My mail address is in the poster.

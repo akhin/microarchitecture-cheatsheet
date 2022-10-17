@@ -29,7 +29,7 @@ Major resources used :
 		https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 
 		AMD64 Architecture Programmer’s Manual: Volumes 1-5
-		https://www.amd.com/system/files/TechDocs/40332.pdf
+		https://www.amd.com/system/files/TechDocs/40332_4.05.pdf
 		
 		The microarchitecture of Intel, AMD, and VIA CPUs , by Agner Fog
 		https://www.agner.org/optimize/microarchitecture.pdf

@@ -39,8 +39,18 @@ https://akkadia.org/drepper/cpumemory.pdf
 
 Wikichip
 https://en.wikichip.org/wiki/WikiChip
+
+## <a name="Licences">**Licences:** 
+As for info and visuals coming from other sources, I provided references with links for all.
+
+As for the text and diagrams created by me , everything is completely free.
+If you want to use anything from it in your presentation , you can copy-paste then put your own name.
         
 ## <a name="Feedbacks">**Contact & feedbacks:** 
 I don't claim that every information is exact. Some of them are topics that I had the chance to get my hands on during projects, but some other are not based on project experiences but researches out of curiosity.
 In case you find a problem, you can raise an issue publicly. 
-If you somehow want to report it privately, you can find my mail address in the poster.
+If you prefer contacting privately, you can find my mail address in the poster.
+
+## <a name="Misc">**Misc:** 
+I used diagrams.net/drawio to create it :
+https://en.wikipedia.org/wiki/Diagrams.net

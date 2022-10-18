@@ -1,3 +1,5 @@
+( Note for SVG version : If you download and view the SVG file it appears ok. However there seems to be misplacings/misalignments in Github file preview. )
+
 Microarchitecture cheat sheet is about X86 CPU topics for developers and mainly oriented towards performance :
 
 <p align="center">  

@@ -1,5 +1,3 @@
-( Note for SVG version : If you download and view the SVG file it appears ok. However there seems to be misplacings/misalignments in Github file preview. )
-
 Microarchitecture cheat sheet is about X86 CPU topics for developers and mainly oriented towards performance :
 
 <p align="center">  
@@ -49,9 +47,9 @@ As for the text and diagrams created by me , everything is completely free.
 If you want to use anything from it in your presentation , you can copy-paste then put your own name.
         
 ## <a name="Feedbacks">**Contact & feedbacks:** 
-I don't claim that every information is exact. Some of them are topics that I had the chance to get my hands on during projects, but some other are not based on project experiences but researches out of curiosity.
+I don't claim that every information is exact or expressed in the best way. Some of them are topics that I had the chance to get my hands on during projects, but some other are from personal researches out of curiosity.
 
-In case you find a problem, you can raise an issue ( "Issues" tab then "New issue" ). If you prefer contacting privately, you can find my mail address in the poster.
+In case you find a problem, please feel free to raise an issue ( "Issues" tab then "New issue" ). If you prefer contacting privately for any reason, my email is akin_ocal@hotmail.com .
 
 ## <a name="Misc">**Misc:** 
 - I used diagrams.net/drawio to create it :

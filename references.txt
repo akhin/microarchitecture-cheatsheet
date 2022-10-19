@@ -1,0 +1,140 @@
+Skylake server diagram on Wikichip
+https://en.wikichip.org/wiki/File:skylake_server_block_diagram.svg
+
+UICA Online Microarchitecture Analysis Tool
+https://uica.uops.info/
+
+Perf Wiki Tutorial
+https://perf.wiki.kernel.org/index.php/Tutorial
+
+Denis Bakhvalov`s article : Visualizing Performance-Critical Dependency Chains
+https://easyperf.net/blog/2022/05/11/Visualizing-Performance-Critical-Dependency-Chains
+
+ACPI on Wikipedia
+https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface
+
+Intel Turboboost page 
+https://www.intel.co.uk/content/www/uk/en/gaming/resources/turbo-boost.html
+
+AMD Turbocore page
+https://www.amd.com/en/technologies/turbo-core
+
+Daniel Lemire`s article : AVX-512: when and how to use these new instructions
+https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/
+
+SIMD JSON on Github
+https://github.com/simdjson/simdjson
+
+Memory disambiguation on Wikipedia 
+https://en.wikipedia.org/wiki/Memory_disambiguation
+
+Memory disambiguation - Store to load forwarding on Wikipedia 
+https://en.wikipedia.org/wiki/Memory_disambiguation#Store_to_load_forwarding
+
+Load Hit Store on Wikipedia 
+https://en.wikipedia.org/wiki/Load-Hit-Store
+
+__restrict__ / Restricting Pointer Aliasing on GCC docs site
+https://gcc.gnu.org/onlinedocs/gcc/Restricted-Pointers.html
+
+Microsoft's Xbox 360, Sony's PS3 - A Hardware Discussion on Anandtech
+https://www.anandtech.com/show/1719/5
+
+Elan Ruskin`s article : LOAD-HIT-STORES AND THE __RESTRICT KEYWORD
+https://web.archive.org/web/20210120214304/http://assemblyrequired.crashworks.org/load-hit-stores-and-the-__restrict-keyword/
+
+Subnormal numbers on Wikipedia 
+https://en.wikipedia.org/wiki/Subnormal_number
+
+Bruce Dawson`s article : That’s Not Normal–the Performance of Odd Floats
+https://randomascii.wordpress.com/2012/05/20/thats-not-normalthe-performance-of-odd-floats/
+
+Intel Intrinsic`s Guide
+https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html
+
+Intel AES on Wikipedia 
+https://en.wikipedia.org/wiki/AES_instruction_set
+
+Intel Vector Neural Network Instructions on Wikichip
+https://en.wikichip.org/wiki/x86/avx512_vnni
+
+Perceptrons on Wikipedia 
+https://en.wikipedia.org/wiki/Perceptron
+
+Dynamic Branch Prediction with Perceptrons , by Daniel A. Jimenez , Calvin Lin
+https://www.cs.utexas.edu/~lin/papers/hpca01.pdf
+
+Intel disabled LSD for Skylake Server on Wikichip
+https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(server)#Front-end
+
+Kernel.org page : The kernel’s command-line parameters to disable security mitigations
+https://www.kernel.org/doc/html/latest/admin-guide/kernel-parameters.html
+
+Meltdown paper 
+https://meltdownattack.com/meltdown.pdf
+
+Spectre paper
+https://spectreattack.com/spectre.pdf
+
+Marek Majkovski`s article : Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks!
+https://blog.cloudflare.com/branch-predictor/
+
+Broadwell microarchitecture on Wikichip
+https://en.wikichip.org/wiki/intel/microarchitectures/broadwell_(client)
+
+Intel® Data Direct I/O Technology (Intel® DDIO): A Primer
+https://www.intel.com/content/dam/www/public/us/en/documents/technology-briefs/data-direct-i-o-technology-brief.pdf
+
+Why DDR5 is the Industry’s Powerful Next-gen Memory?
+https://news.skhynix.com/why-ddr5-is-the-industrys-powerful-next-gen-memory/
+
+DIMM image source
+https://pixabay.com/vectors/dimm-ram-memory-ram-computer-23265/
+
+AMD CCX on Wikichip
+https://en.wikichip.org/wiki/amd/microarchitectures/zen#CPU_Complex_.28CCX.29
+
+Intel MESIF protocol
+https://en.wikipedia.org/wiki/MESIF_protocol
+
+AMD MOESI protocol 
+https://en.wikipedia.org/wiki/MOESI_protocol
+
+Jeff Preshing`s article : Memory Ordering at Compile Time
+https://preshing.com/20120625/memory-ordering-at-compile-time/
+
+Godbolt / CompilerExplorer
+https://godbolt.org/
+
+CAS / Compare and swap on Wikipedia 
+https://en.wikipedia.org/wiki/Compare-and-swap
+
+Test-And-Set
+https://en.wikipedia.org/wiki/Test-and-set
+
+Intel sticks another nail in the coffin of TSX with feature-disabling microcode update
+https://www.theregister.com/2021/06/29/intel_tsx_disabled/
+
+Intel Cache Allocation Technology page
+https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html
+
+AMD64 Technology Platform Quality of Service Extensions
+https://developer.amd.com/wp-content/resources/56375_1.00.pdf
+
+Intel Memory Bandwidth Allocation page 
+https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-memory-bandwidth-allocation.html
+
+lstopo on linux.die.net
+https://linux.die.net/man/1/lstopo
+
+Intel Vtune 
+https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html
+
+Andi Kleen`s PMU tools / Toplev on Github 
+https://github.com/andikleen/pmu-tools
+
+How TMA* Addresses Challenges in Modern Servers and Enhancements Coming in IceLake by Ahmad Yasin
+https://dyninst.github.io/scalable_tools_workshop/petascale2018/assets/slides/TMA%20addressing%20challenges%20in%20Icelake%20-%20Ahmad%20Yasin.pdf
+
+Infographics: Operation Costs in CPU Clock Cycles
+http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/

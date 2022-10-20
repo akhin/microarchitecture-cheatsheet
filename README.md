@@ -43,12 +43,14 @@ https://en.wikichip.org/wiki/WikiChip
 ## <a name="Licences">**Licences:** 
 As for info and visuals coming from other sources, I provided references with links for all.
 
-Everything is completely free.
+Everything else is completely free.
         
 ## <a name="Feedbacks">**Contact & feedbacks:** 
 I don't claim that every information is exact or expressed in the best way. Some of them are topics that I had the chance to get my hands on during projects, but some other are from personal researches out of curiosity.
 
-In case of an issue or suggestion, please feel free to raise an issue. If you prefer contacting privately for any reason, my email is akin_ocal@hotmail.com .
+In case of an issue or suggestion, please feel free to raise an issue.
+
+My email is akin_ocal@hotmail.com .
 
 ## <a name="Misc">**Misc:** 
 - I used diagrams.net/drawio : https://app.diagrams.net/

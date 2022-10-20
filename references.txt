@@ -139,5 +139,5 @@ https://github.com/andikleen/pmu-tools
 How TMA* Addresses Challenges in Modern Servers and Enhancements Coming in IceLake by Ahmad Yasin
 https://dyninst.github.io/scalable_tools_workshop/petascale2018/assets/slides/TMA%20addressing%20challenges%20in%20Icelake%20-%20Ahmad%20Yasin.pdf
 
-Infographics: Operation Costs in CPU Clock Cycles
+Infographics: Operation Costs in CPU Clock Cycles on IT Hare
 http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/

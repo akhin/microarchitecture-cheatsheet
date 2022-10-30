@@ -13,11 +13,17 @@ https://easyperf.net/blog/2022/05/11/Visualizing-Performance-Critical-Dependency
 ACPI on Wikipedia
 https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface
 
+Intel frequency table on Wikichip
+https://en.wikichip.org/wiki/intel/xeon_gold/5120#Frequencies
+
 Intel Turboboost page 
 https://www.intel.co.uk/content/www/uk/en/gaming/resources/turbo-boost.html
 
 AMD Turbocore page
 https://www.amd.com/en/technologies/turbo-core
+
+SIMD : GCC auto vectorisation
+https://gcc.gnu.org/projects/tree-ssa/vectorization.html
 
 Daniel Lemire`s article : AVX-512: when and how to use these new instructions
 https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/
@@ -70,6 +76,9 @@ https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(server)#Front-end
 Kernel.org page : The kernel’s command-line parameters to disable security mitigations
 https://www.kernel.org/doc/html/latest/admin-guide/kernel-parameters.html
 
+Controlling the Performance Impact of Microcode and Security Patches for CVE-2017-5754 CVE-2017-5715 and CVE-2017-5753 using Red Hat Enterprise Linux Tunables
+https://access.redhat.com/articles/3311301
+
 Meltdown paper 
 https://meltdownattack.com/meltdown.pdf
 
@@ -82,6 +91,12 @@ https://blog.cloudflare.com/branch-predictor/
 Broadwell microarchitecture on Wikichip
 https://en.wikichip.org/wiki/intel/microarchitectures/broadwell_(client)
 
+Cache prefetching on Wikipedia
+https://en.wikipedia.org/wiki/Cache_prefetching
+
+Is software prefetching (__builtin_prefetch) useful for performance?
+https://lemire.me/blog/2018/04/30/is-software-prefetching-__builtin_prefetch-useful-for-performance/
+
 Intel® Data Direct I/O Technology (Intel® DDIO): A Primer
 https://www.intel.com/content/dam/www/public/us/en/documents/technology-briefs/data-direct-i-o-technology-brief.pdf
 
@@ -90,6 +105,9 @@ https://news.skhynix.com/why-ddr5-is-the-industrys-powerful-next-gen-memory/
 
 DIMM image source
 https://pixabay.com/vectors/dimm-ram-memory-ram-computer-23265/
+
+Intel e-cores sharing L2 cache on Anandtech
+https://www.anandtech.com/show/16959/intel-innovation-alder-lake-november-4th/
 
 AMD CCX on Wikichip
 https://en.wikichip.org/wiki/amd/microarchitectures/zen#CPU_Complex_.28CCX.29
@@ -115,8 +133,14 @@ https://en.wikipedia.org/wiki/Test-and-set
 Intel sticks another nail in the coffin of TSX with feature-disabling microcode update
 https://www.theregister.com/2021/06/29/intel_tsx_disabled/
 
+AMD`s Advanced Syncronisation Facility ( Transactional memory ) on Wikipedia
+https://en.wikipedia.org/wiki/Advanced_Synchronization_Facility
+
 Intel Cache Allocation Technology page
 https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html
+
+Intel Code and Data Prioritisation page
+https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-code-and-data-prioritization-with-usage-models.html
 
 AMD64 Technology Platform Quality of Service Extensions
 https://developer.amd.com/wp-content/resources/56375_1.00.pdf
@@ -136,7 +160,7 @@ https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.ht
 Andi Kleen`s PMU tools / Toplev on Github 
 https://github.com/andikleen/pmu-tools
 
-How TMA* Addresses Challenges in Modern Servers and Enhancements Coming in IceLake by Ahmad Yasin
+How TMA Addresses Challenges in Modern Servers and Enhancements Coming in IceLake by Ahmad Yasin
 https://dyninst.github.io/scalable_tools_workshop/petascale2018/assets/slides/TMA%20addressing%20challenges%20in%20Icelake%20-%20Ahmad%20Yasin.pdf
 
 Infographics: Operation Costs in CPU Clock Cycles on IT Hare

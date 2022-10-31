@@ -1,4 +1,5 @@
-Microarchitecture cheat sheet is an overview of X86 CPU topics for developers and oriented towards performance :
+Microarchitecture cheat sheet provides an overview and collection of details about X86 CPU topics for developers.
+It is mainly oriented towards performance :
 
 <p align="center">  
 <img src="https://github.com/akhin/microarchitecture-cheatsheet/blob/main/snapshot.png">       
@@ -41,7 +42,7 @@ Wikichip
 https://en.wikichip.org/wiki/WikiChip
 
 ## <a name="Licences">**Licences:** 
-As for info and visuals coming from other sources, I provided references with links for all.
+As for info and visuals coming from other sources, I provided references with links.
 
 Everything else is completely free.
         

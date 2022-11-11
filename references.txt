@@ -10,14 +10,14 @@ https://perf.wiki.kernel.org/index.php/Tutorial
 Denis Bakhvalov`s article : Visualizing Performance-Critical Dependency Chains
 https://easyperf.net/blog/2022/05/11/Visualizing-Performance-Critical-Dependency-Chains
 
+Intel`s "How to Benchmark Code Execution Times on Intel® IA-32 and IA-64 Instruction Set Architectures" docuementation
+https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/ia-32-ia-64-benchmark-code-execution-paper.pdf
+
 ACPI on Wikipedia
 https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface
 
-Intel frequency table on Wikichip
-https://en.wikichip.org/wiki/intel/xeon_gold/5120#Frequencies
-
-Intel Turboboost page 
-https://www.intel.co.uk/content/www/uk/en/gaming/resources/turbo-boost.html
+Intel frequency behaviour on Wikichip
+https://en.wikichip.org/wiki/intel/frequency_behavior
 
 AMD Turbocore page
 https://www.amd.com/en/technologies/turbo-core
@@ -112,11 +112,17 @@ https://www.anandtech.com/show/16959/intel-innovation-alder-lake-november-4th/
 AMD CCX on Wikichip
 https://en.wikichip.org/wiki/amd/microarchitectures/zen#CPU_Complex_.28CCX.29
 
-Intel MESIF protocol
+MESI protocol on Wikipedia
+https://en.wikipedia.org/wiki/MESI_protocol
+
+Intel MESIF protocol on Wikipedia
 https://en.wikipedia.org/wiki/MESIF_protocol
 
-AMD MOESI protocol 
+AMD MOESI protocol on Wikipedia
 https://en.wikipedia.org/wiki/MOESI_protocol
+
+Erik Rigtorp`s article : Optimising a ring buffer for throughput
+https://rigtorp.se/ringbuffer/
 
 Jeff Preshing`s article : Memory Ordering at Compile Time
 https://preshing.com/20120625/memory-ordering-at-compile-time/
@@ -135,6 +141,12 @@ https://www.theregister.com/2021/06/29/intel_tsx_disabled/
 
 AMD`s Advanced Syncronisation Facility ( Transactional memory ) on Wikipedia
 https://en.wikipedia.org/wiki/Advanced_Synchronization_Facility
+
+Intel frequency table on Wikichip
+https://en.wikichip.org/wiki/intel/xeon_gold/5120#Frequencies
+
+Intel Turbo Boost and number of active cores on Wikichip
+https://en.wikichip.org/wiki/intel/turbo_boost_technology#Mechanism
 
 Intel Cache Allocation Technology page
 https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html

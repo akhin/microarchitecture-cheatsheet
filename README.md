@@ -1,4 +1,4 @@
-Modern CPUs are very complex and there are so many information about them across different departments , therefore they can be overwhelming.
+Modern CPUs are very complex beasts and there are so much information about them across different departments , therefore they can be overwhelming.
 Microarchitecture cheat sheet aims to provide an organised collection of topics about X86 CPUs that developers shall have on their mind when considering performance :
 
 Last update date : Nov11, 2022

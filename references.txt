@@ -169,6 +169,9 @@ https://linux.die.net/man/1/lstopo
 Intel memory latency checker
 https://www.intel.com/content/www/us/en/developer/articles/tool/intelr-memory-latency-checker.html
 
+Dell`s AMD NUMA node per socket article
+https://infohub.delltechnologies.com/l/cpu-best-practices-3/poweredge-numa-nodes-per-socket-1#:~:text=AMD%20servers%20provide%20the%20ability,bank%20into%20two%20equal%20parts.
+
 Intel Vtune 
 https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html
 

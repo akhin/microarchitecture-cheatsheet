@@ -1,6 +1,9 @@
 Skylake server diagram on Wikichip
 https://en.wikichip.org/wiki/File:skylake_server_block_diagram.svg
 
+AMD Zen2 diagram on Wikichip
+https://en.wikichip.org/w/images/f/f2/zen_2_core_diagram.svg
+
 UICA Online Microarchitecture Analysis Tool
 https://uica.uops.info/
 

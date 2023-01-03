@@ -25,6 +25,9 @@ https://en.wikichip.org/wiki/intel/frequency_behavior
 AMD Turbocore page
 https://www.amd.com/en/technologies/turbo-core
 
+AMD Ryzen Processor Software optimisation by Ken Mitchell , GDC2022
+https://gpuopen.com/gdc-presentations/2022/GDC_AMD_Ryzen_Processor_Software_Optimization.pdf
+
 SIMD : GCC auto vectorisation
 https://gcc.gnu.org/projects/tree-ssa/vectorization.html
 
@@ -97,9 +100,6 @@ https://en.wikichip.org/wiki/intel/microarchitectures/broadwell_(client)
 Cache prefetching on Wikipedia
 https://en.wikipedia.org/wiki/Cache_prefetching
 
-Is software prefetching (__builtin_prefetch) useful for performance?
-https://lemire.me/blog/2018/04/30/is-software-prefetching-__builtin_prefetch-useful-for-performance/
-
 Intel® Data Direct I/O Technology (Intel® DDIO): A Primer
 https://www.intel.com/content/dam/www/public/us/en/documents/technology-briefs/data-direct-i-o-technology-brief.pdf
 
@@ -130,8 +130,8 @@ https://rigtorp.se/ringbuffer/
 Jeff Preshing`s article : Memory Ordering at Compile Time
 https://preshing.com/20120625/memory-ordering-at-compile-time/
 
-Godbolt / CompilerExplorer
-https://godbolt.org/
+Detecting and handling split locks (in Linux kernel) on lwn.net
+https://lwn.net/Articles/790464/
 
 CAS / Compare and swap on Wikipedia 
 https://en.wikipedia.org/wiki/Compare-and-swap

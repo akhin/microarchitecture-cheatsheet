@@ -1,7 +1,7 @@
 Modern CPUs are very complex beasts and there are so much information about them across different departments , therefore they can be overwhelming.
 Microarchitecture cheat sheet aims to provide an organised collection of overviews about X86 CPUs that developers shall have on their mind when thinking about performance :
 
-Last update date : Jan7, 2023
+Last update date : May24, 2023
 
 <p align="center">  
 <img src="https://github.com/akhin/microarchitecture-cheatsheet/blob/main/snapshot.png">       

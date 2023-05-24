@@ -158,7 +158,7 @@ Intel Code and Data Prioritisation page
 https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-code-and-data-prioritization-with-usage-models.html
 
 AMD64 Technology Platform Quality of Service Extensions
-https://developer.amd.com/wp-content/resources/56375_1.00.pdf
+https://www.amd.com/system/files/TechDocs/56375_1.03_PUB.pdf
 
 Intel Memory Bandwidth Allocation page 
 https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-memory-bandwidth-allocation.html

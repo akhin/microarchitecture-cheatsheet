@@ -103,6 +103,9 @@ https://en.wikipedia.org/wiki/Cache_prefetching
 Intel® Data Direct I/O Technology (Intel® DDIO): A Primer
 https://www.intel.com/content/dam/www/public/us/en/documents/technology-briefs/data-direct-i-o-technology-brief.pdf
 
+Raymond Chen's article : Why is address space allocation granularity 64KB?
+https://devblogs.microsoft.com/oldnewthing/20031008-00/?p=42223
+
 Why DDR5 is the Industry’s Powerful Next-gen Memory?
 https://news.skhynix.com/why-ddr5-is-the-industrys-powerful-next-gen-memory/
 

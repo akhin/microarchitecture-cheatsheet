@@ -14,7 +14,7 @@ Denis Bakhvalov`s article : Visualizing Performance-Critical Dependency Chains
 https://easyperf.net/blog/2022/05/11/Visualizing-Performance-Critical-Dependency-Chains
 
 Intel`s "How to Benchmark Code Execution Times on Intel® IA-32 and IA-64 Instruction Set Architectures" docuementation
-https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/ia-32-ia-64-benchmark-code-execution-paper.pdf
+https://www.yumpu.com/en/document/view/27787317/how-to-benchmark-code-execution-times-on-intel-ia-32-and-ia-64-
 
 ACPI on Wikipedia
 https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface
@@ -23,7 +23,7 @@ Intel frequency behaviour on Wikichip
 https://en.wikichip.org/wiki/intel/frequency_behavior
 
 AMD Turbocore page
-https://www.amd.com/en/technologies/turbo-core
+https://en.wikipedia.org/wiki/AMD_Turbo_Core
 
 AMD Ryzen Processor Software optimisation by Ken Mitchell , GDC2022
 https://gpuopen.com/gdc-presentations/2022/GDC_AMD_Ryzen_Processor_Software_Optimization.pdf
@@ -161,7 +161,7 @@ Intel Code and Data Prioritisation page
 https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-code-and-data-prioritization-with-usage-models.html
 
 AMD64 Technology Platform Quality of Service Extensions
-https://www.amd.com/system/files/TechDocs/56375_1.03_PUB.pdf
+https://kib.kiev.ua/x86docs/AMD/MISC/56375_1.00_PUB.pdf
 
 Intel Memory Bandwidth Allocation page 
 https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-memory-bandwidth-allocation.html

@@ -115,6 +115,9 @@ https://pixabay.com/vectors/dimm-ram-memory-ram-computer-23265/
 Intel e-cores sharing L2 cache on Anandtech
 https://www.anandtech.com/show/16959/intel-innovation-alder-lake-november-4th/
 
+AMD Phoenix2 hybrid cpus
+https://www.tomshardware.com/news/amd-phoenix-2-review-evaluates-zen-4-zen-4c-performance
+
 AMD CCX on Wikichip
 https://en.wikichip.org/wiki/amd/microarchitectures/zen#CPU_Complex_.28CCX.29
 

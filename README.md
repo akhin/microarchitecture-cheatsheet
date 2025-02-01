@@ -1,7 +1,7 @@
 Modern CPUs are very complex beasts and there are so much information about them across different departments , therefore they can be overwhelming.
 Microarchitecture cheat sheet aims to provide an organised collection of overviews about X86 CPUs that developers shall have on their mind when thinking about performance :
 
-Last update date : 12 Oct, 2024
+Last update date : 01 Feb, 2025
 
 <p align="center">  
 <img src="https://github.com/akhin/microarchitecture-cheatsheet/blob/main/snapshot.png">       
@@ -29,10 +29,7 @@ Intel® 64 and IA-32 Architectures Optimization Reference Manual
 https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 
 AMD64 Architecture Programmer’s Manual: Volumes 1-5
-https://www.amd.com/en/support/tech-docs/amd64-architecture-programmers-manual-volumes-1-5
-
-Software Optimization Guide for AMD Family 19h Processors ( Zen3 )
-https://www.amd.com/system/files/TechDocs/56665.zip
+https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/40332.pdf
 
 The microarchitecture of Intel, AMD, and VIA CPUs , by Agner Fog
 https://www.agner.org/optimize/microarchitecture.pdf
@@ -42,9 +39,6 @@ https://www.agner.org/optimize/instruction_tables.pdf
 
 What every programmer should know about memory, by Ulrich Drepper
 https://akkadia.org/drepper/cpumemory.pdf
-
-Wikichip
-https://en.wikichip.org/wiki/WikiChip
 
 ## <a name="Licences">**Licences:** 
 As for info and visuals coming from other sources, I provided references with links.

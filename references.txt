@@ -1,9 +1,3 @@
-Skylake server diagram on Wikichip
-https://en.wikichip.org/wiki/File:skylake_server_block_diagram.svg
-
-AMD Zen2 diagram on Wikichip
-https://en.wikichip.org/w/images/f/f2/zen_2_core_diagram.svg
-
 UICA Online Microarchitecture Analysis Tool
 https://uica.uops.info/
 
@@ -18,9 +12,6 @@ https://www.yumpu.com/en/document/view/27787317/how-to-benchmark-code-execution-
 
 ACPI on Wikipedia
 https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface
-
-Intel frequency behaviour on Wikichip
-https://en.wikichip.org/wiki/intel/frequency_behavior
 
 AMD Turbocore page
 https://en.wikipedia.org/wiki/AMD_Turbo_Core
@@ -67,17 +58,14 @@ https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html
 Intel AES on Wikipedia 
 https://en.wikipedia.org/wiki/AES_instruction_set
 
-Intel Vector Neural Network Instructions on Wikichip
-https://en.wikichip.org/wiki/x86/avx512_vnni
+Intel Vector Neural Network Instructions
+https://en.wikipedia.org/wiki/AVX-512#VNNI
 
 Perceptrons on Wikipedia 
 https://en.wikipedia.org/wiki/Perceptron
 
 Dynamic Branch Prediction with Perceptrons , by Daniel A. Jimenez , Calvin Lin
 https://www.cs.utexas.edu/~lin/papers/hpca01.pdf
-
-Intel disabled LSD for Skylake Server on Wikichip
-https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(server)#Front-end
 
 Kernel.org page : The kernel’s command-line parameters to disable security mitigations
 https://www.kernel.org/doc/html/latest/admin-guide/kernel-parameters.html
@@ -94,8 +82,8 @@ https://spectreattack.com/spectre.pdf
 Marek Majkovski`s article : Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks!
 https://blog.cloudflare.com/branch-predictor/
 
-Broadwell microarchitecture on Wikichip
-https://en.wikichip.org/wiki/intel/microarchitectures/broadwell_(client)
+Broadwell microarchitecture
+https://en.wikipedia.org/wiki/Broadwell_(microarchitecture)
 
 Cache prefetching on Wikipedia
 https://en.wikipedia.org/wiki/Cache_prefetching
@@ -118,8 +106,8 @@ https://www.anandtech.com/show/16959/intel-innovation-alder-lake-november-4th/
 AMD Phoenix2 hybrid cpus
 https://www.tomshardware.com/news/amd-phoenix-2-review-evaluates-zen-4-zen-4c-performance
 
-AMD CCX on Wikichip
-https://en.wikichip.org/wiki/amd/microarchitectures/zen#CPU_Complex_.28CCX.29
+AMD CCX
+https://www.tomshardware.com/reviews/amd-ccx-definition-cpu-core-explained,6338.html
 
 MESI protocol on Wikipedia
 https://en.wikipedia.org/wiki/MESI_protocol
@@ -150,12 +138,6 @@ https://www.theregister.com/2021/06/29/intel_tsx_disabled/
 
 AMD`s Advanced Syncronisation Facility ( Transactional memory ) on Wikipedia
 https://en.wikipedia.org/wiki/Advanced_Synchronization_Facility
-
-Intel frequency table on Wikichip
-https://en.wikichip.org/wiki/intel/xeon_gold/5120#Frequencies
-
-Intel Turbo Boost and number of active cores on Wikichip
-https://en.wikichip.org/wiki/intel/turbo_boost_technology#Mechanism
 
 Intel Cache Allocation Technology page
 https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-cache-allocation-technology.html

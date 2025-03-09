@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface
 AMD Turbocore page
 https://en.wikipedia.org/wiki/AMD_Turbo_Core
 
+AMD cache injection
+https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/white-papers/58725.pdf
+
 AMD Ryzen Processor Software optimisation by Ken Mitchell , GDC2022
 https://gpuopen.com/gdc-presentations/2022/GDC_AMD_Ryzen_Processor_Software_Optimization.pdf
 
@@ -54,6 +57,9 @@ https://randomascii.wordpress.com/2012/05/20/thats-not-normalthe-performance-of-
 
 Intel Intrinsic`s Guide
 https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html
+
+Intel AVX10 Specs
+https://www.intel.com/content/www/us/en/content-details/828964/intel-advanced-vector-extensions-10-1-intel-avx10-1-architecture-specification.html
 
 Intel AES on Wikipedia 
 https://en.wikipedia.org/wiki/AES_instruction_set
@@ -100,8 +106,11 @@ https://news.skhynix.com/why-ddr5-is-the-industrys-powerful-next-gen-memory/
 DIMM image source
 https://pixabay.com/vectors/dimm-ram-memory-ram-computer-23265/
 
-Intel e-cores sharing L2 cache on Anandtech
-https://www.anandtech.com/show/16959/intel-innovation-alder-lake-november-4th/
+Intel hybrid architecture
+https://www.intel.com/content/www/us/en/developer/articles/technical/hybrid-architecture.html
+
+Intel Alder Lake e-cores sharing L2 cache on Anandtech
+https://en.wikipedia.org/wiki/Alder_Lake
 
 AMD Phoenix2 hybrid cpus
 https://www.tomshardware.com/news/amd-phoenix-2-review-evaluates-zen-4-zen-4c-performance

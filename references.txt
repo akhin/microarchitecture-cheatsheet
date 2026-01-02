@@ -17,7 +17,7 @@ AMD Turbocore page
 https://en.wikipedia.org/wiki/AMD_Turbo_Core
 
 AMD cache injection
-https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/white-papers/58725.pdf
+https://www.phoronix.com/news/AMD-EPYC-SDCI-Cache-Injection
 
 AMD Ryzen Processor Software optimisation by Ken Mitchell , GDC2022
 https://gpuopen.com/gdc-presentations/2022/GDC_AMD_Ryzen_Processor_Software_Optimization.pdf
@@ -44,7 +44,7 @@ __restrict__ / Restricting Pointer Aliasing on GCC docs site
 https://gcc.gnu.org/onlinedocs/gcc/Restricted-Pointers.html
 
 Microsoft's Xbox 360, Sony's PS3 - A Hardware Discussion on Anandtech
-https://www.anandtech.com/show/1719/5
+https://web.archive.org/web/20250117113621/https://www.anandtech.com/show/1719/5
 
 Elan Ruskin`s article : LOAD-HIT-STORES AND THE __RESTRICT KEYWORD
 https://web.archive.org/web/20210120214304/http://assemblyrequired.crashworks.org/load-hit-stores-and-the-__restrict-keyword/

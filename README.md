@@ -1,7 +1,7 @@
 Modern CPUs are very complex beasts and there are so much information about them across different departments , therefore they can be overwhelming.
 Microarchitecture cheat sheet aims to provide an organised collection of overviews about X86 CPUs that developers shall have on their mind when thinking about performance :
 
-Last update date : 09 Mar, 2025
+Last update date : 02 Jan, 2026
 
 <p align="center">  
 <img src="https://github.com/akhin/microarchitecture-cheatsheet/blob/main/snapshot.png">       
@@ -29,7 +29,7 @@ Intel® 64 and IA-32 Architectures Optimization Reference Manual
 https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 
 AMD64 Architecture Programmer’s Manual: Volumes 1-5
-https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/40332.pdf
+https://docs.amd.com/v/u/en-US/40332-PUB_4.08
 
 The microarchitecture of Intel, AMD, and VIA CPUs , by Agner Fog
 https://www.agner.org/optimize/microarchitecture.pdf
